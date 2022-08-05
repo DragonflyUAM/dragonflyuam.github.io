@@ -1,7 +1,7 @@
 {
   "name": "dragonflyuam",
   "version": "0.0.1",
-  "homepage": "http://dragonflyuam.github.io",
+  "homepage": "https://dragonflyuam.com",
   "private": true,
   "devDependencies": {
     "gh-pages": "^4.0.0"
