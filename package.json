@@ -1,7 +1,10 @@
 {
+  "name": "dragonflyuam",
+  "version": "0.0.1",
+  "homepage": "http://dragonflyuam.github.io",
+  "private": true,
   "devDependencies": {
-    "gh-pages": "^4.0.0",
-    "homepage": "http://dragonflyuam.github.io"
+    "gh-pages": "^4.0.0"
   },
   "scripts": { 
     "start": "react-scripts start",
