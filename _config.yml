@@ -1,0 +1,32 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               DragonflyUAM
+tagline:             DragonflyUAM
+url:                 http://dragonflyuam.com
+paginate:            1
+baseurl:             ""
+markdown:            redcarpet
+highlighter:         pygments
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              David Akre
+  url:               https://dragonflyuam.com
+  email:             info@dragonflyuam.com
+
+# Custom vars
+version:             0.0.1
+github:
+  repo:              https://github.com/DragonflyUAM/dragonflyuam.github.io
