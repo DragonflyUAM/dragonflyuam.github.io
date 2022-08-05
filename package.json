@@ -1,7 +1,7 @@
 {
   "devDependencies": {
-    "homepage": "http://dragonflyuam.github.io",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "homepage": "http://dragonflyuam.github.io"
   },
   "scripts": { 
     "start": "react-scripts start",
