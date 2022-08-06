@@ -6,5 +6,4 @@ permalink: /about/
 
 Dragonfly is an aerospace company specializing in Urban Air Mobility
 
-Dragonly's Github:
-[dragonfly]: https://github.com/DragonflyUAM
+Dragonly's Github [dragonfly](https://github.com/DragonflyUAM)
